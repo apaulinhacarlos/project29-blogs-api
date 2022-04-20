@@ -752,6 +752,7 @@ Se não conter o campo `content` o resultado retornado deverá ser conforme exib
 
 ![blogpost com token inválido](./public/editarsemcontent.png)
 
+
 ## Requisitos Bônus
 
 ### 11 - Sua aplicação deve ter o endpoint DELETE `post/:id`
